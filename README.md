@@ -25,7 +25,7 @@ This system is designed to assist hospitals in managing patients, doctors, and n
 
 | Sign In | Sign Up | Forgot Password | Landing Page |
 |--------|--------|------------------|---------------|
-| ![](https://raw.githubusercontent.com/DheerajMahapatra/IBM-Project/main/UI_UX/SignIn.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/IBM-Project/main/UI_UX/SignUp.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/IBM-Project/main/UI_UX/Forgot-Password.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/IBM-Project/main/UI_UX/LandingPage.jpg) |
+| ![](https://raw.githubusercontent.com/DheerajMahapatra/IBM-Project/main/UI_UX/SignIn.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/IBM-Project/main/UI_UX/SignUp.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/IBM-Project/main/UI_UX/Forget-Password.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/IBM-Project/main/UI_UX/Landing.jpg) |
 
 | Doctor Info | Nurse Info | Patient Info | Admit Patient |
 |-------------|------------|--------------|----------------|
