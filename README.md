@@ -87,11 +87,3 @@ python main.py
 ---
 
 
----
-
-Let me know if you'd like to:
-- Add hover captions under each image
-- Auto-resize the images for cleaner layout
-- Use collapsible UI sections (HTML-style) for GitHub Pages
-
-Happy to help fine-tune it!
