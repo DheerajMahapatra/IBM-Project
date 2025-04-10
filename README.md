@@ -20,19 +20,21 @@ This system is designed to assist hospitals in managing patients, doctors, and n
 
 ---
 
+
 ## 🖼️ UI Preview
 
 | Sign In | Sign Up | Forgot Password | Landing Page |
 |--------|--------|------------------|---------------|
-| ![](https://raw.githubusercontent.com/DheerajMahapatra/Solution_Challenge/main/UI_UX/SignIn.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/Solution_Challenge/main/UI_UX/SignUp.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/Solution_Challenge/main/UI_UX/Forgot-Password.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/Solution_Challenge/main/UI_UX/LandingPage.jpg) |
+| ![](https://raw.githubusercontent.com/DheerajMahapatra/IBM-Project/main/UI_UX/SignIn.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/IBM-Project/main/UI_UX/SignUp.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/IBM-Project/main/UI_UX/Forgot-Password.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/IBM-Project/main/UI_UX/LandingPage.jpg) |
 
 | Doctor Info | Nurse Info | Patient Info | Admit Patient |
 |-------------|------------|--------------|----------------|
-| ![](https://raw.githubusercontent.com/DheerajMahapatra/Solution_Challenge/main/UI_UX/Doctor-Info.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/Solution_Challenge/main/UI_UX/Nurse-Info.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/Solution_Challenge/main/UI_UX/Patient-Info.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/Solution_Challenge/main/UI_UX/Admit-Patient.jpg) |
+| ![](https://raw.githubusercontent.com/DheerajMahapatra/IBM-Project/main/UI_UX/Doctor-Info.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/IBM-Project/main/UI_UX/Nurse-Info.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/IBM-Project/main/UI_UX/Patient-Info.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/IBM-Project/main/UI_UX/Admit-Patient.jpg) |
 
 | Discharge Patient | Admin Panel | Ambulance |
 |-------------------|-------------|-----------|
-| ![](https://raw.githubusercontent.com/DheerajMahapatra/Solution_Challenge/main/UI_UX/Discharge-Patient.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/Solution_Challenge/main/UI_UX/Admin.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/Solution_Challenge/main/UI_UX/Ambulance.jpg) |
+| ![](https://raw.githubusercontent.com/DheerajMahapatra/IBM-Project/main/UI_UX/Discharge-Patient.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/IBM-Project/main/UI_UX/Admin.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/IBM-Project/main/UI_UX/Ambulance.jpg) |
+
 
 
 ---
