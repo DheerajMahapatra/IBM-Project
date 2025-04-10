@@ -76,13 +76,13 @@ python main.py
 
 ---
 
-👨‍💻 Team Members
+## 👨‍💻 Team Members
 
-👨‍💻 Dheeraj Mahapatra
+- 👨‍💻 Dheeraj Mahapatra
 
-👩‍💻 Anjali Singh
+- 👩‍💻 Anjali Singh
 
-👨‍💻 Shyam Kumar Soni
+- 👨‍💻 Shyam Kumar Soni
 
 ---
 
