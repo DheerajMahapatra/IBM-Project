@@ -20,6 +20,23 @@ This system is designed to assist hospitals in managing patients, doctors, and n
 
 ---
 
+## 🖼️ UI Preview
+
+| Sign In | Sign Up | Forgot Password | Landing Page |
+|--------|--------|------------------|---------------|
+| ![](https://raw.githubusercontent.com/DheerajMahapatra/Solution_Challenge/main/UI_UX/SignIn.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/Solution_Challenge/main/UI_UX/SignUp.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/Solution_Challenge/main/UI_UX/Forgot-Password.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/Solution_Challenge/main/UI_UX/LandingPage.jpg) |
+
+| Doctor Info | Nurse Info | Patient Info | Admit Patient |
+|-------------|------------|--------------|----------------|
+| ![](https://raw.githubusercontent.com/DheerajMahapatra/Solution_Challenge/main/UI_UX/Doctor-Info.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/Solution_Challenge/main/UI_UX/Nurse-Info.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/Solution_Challenge/main/UI_UX/Patient-Info.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/Solution_Challenge/main/UI_UX/Admit-Patient.jpg) |
+
+| Discharge Patient | Admin Panel | Ambulance |
+|-------------------|-------------|-----------|
+| ![](https://raw.githubusercontent.com/DheerajMahapatra/Solution_Challenge/main/UI_UX/Discharge-Patient.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/Solution_Challenge/main/UI_UX/Admin.jpg) | ![](https://raw.githubusercontent.com/DheerajMahapatra/Solution_Challenge/main/UI_UX/Ambulance.jpg) |
+
+
+---
+
 ## 🛠️ Tech Stack
 
 | Component   | Tech Used          |
@@ -31,23 +48,23 @@ This system is designed to assist hospitals in managing patients, doctors, and n
 ---
 
 ## 📂 Project Structure
-📁 IBM Project/
-├── admit.db            # Database file for patient records
-├── main.py             # Main Tkinter GUI file
-├── doctor.py           # Doctor interface script
-├── nurse.py            # Nurse interface script
-├── admin.py            # Admin interface script
-├── *.jpg / *.png       # GUI images and buttons
-├── README.md           # This documentation file
+📁 IBM Project/  
+├── admit.db            # Database file for patient records  
+├── main.py             # Main Tkinter GUI file  
+├── doctor.py           # Doctor interface script  
+├── nurse.py            # Nurse interface script  
+├── admin.py            # Admin interface script  
+├── *.jpg / *.png       # GUI images and buttons  
+├── README.md           # This documentation file  
 
 ---
-
 
 ## 🖥️ How to Run
 
 1. 🔧 Make sure Python is installed  
 2. 📥 Clone or download the project folder  
 3. ▶️ Run the main Python file using:
+
 
 ```bash
 python signin.py
@@ -67,7 +84,12 @@ python main.py
 
 ---
 
-📜 License
 
-This project is licensed under the MIT License.
-Use it, learn from it, and feel free to improve it!
+---
+
+Let me know if you'd like to:
+- Add hover captions under each image
+- Auto-resize the images for cleaner layout
+- Use collapsible UI sections (HTML-style) for GitHub Pages
+
+Happy to help fine-tune it!
