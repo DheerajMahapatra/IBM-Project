@@ -3,7 +3,15 @@
 Welcome to the **Hospital Management System** — a smart healthcare desktop application built with Python's Tkinter! This project simplifies patient admissions, staff coordination, and admin-level management with an easy-to-use graphical interface.
 
 ---
+> ✨ *Empowering minds. One thought at a time.*
 
+![Repo Size](https://img.shields.io/github/repo-size/DheerajMahapatra/IBM-Project)
+![Issues](https://img.shields.io/github/issues/DheerajMahapatra/IBM-Project)
+![Forks](https://img.shields.io/github/forks/DheerajMahapatra/IBM-Project?style=social)
+![Stars](https://img.shields.io/github/stars/DheerajMahapatra/IBM-Project?style=social)
+
+
+---
 ## 📌 Project Overview
 
 This system is designed to assist hospitals in managing patients, doctors, and nurses under a centralized platform. With role-based access and a secure database, it’s built to bring efficiency and speed to hospital operations.
